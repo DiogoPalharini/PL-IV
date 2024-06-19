@@ -1,6 +1,6 @@
 # PL-IV
-Rodar:
-clonar
-executar o executavel .jar
-na pasta do front npm install
-npm start
+## Rodar <br>
+clonar <br>
+executar o executavel .jar <br>
+na pasta do front npm install <br>
+npm start <br>
